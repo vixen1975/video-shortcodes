@@ -11,7 +11,8 @@
 	],
 	"type": "silverstripe-module",
 	"require": {
-		"silverstripe/cms": "^3.1.0"
+		"silverstripe/cms": "^3.1.0",
+		"silverstripe/display-logic": "dev-master"
 	},
 	"authors": [
 		{
