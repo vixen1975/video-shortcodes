@@ -1,0 +1,24 @@
+
+{
+	"name": "vixen1975/video-shortcodes",
+	"description": "Adds shortcode links for videos to Silverstripe.",
+	"keywords": [
+		"silverstripe",
+		"videos",
+    "YouTube",
+    "Vimeo",
+    "shortcodes"
+	],
+	"type": "silverstripe-module",
+	"require": {
+		"silverstripe/cms": "^3.1.0"
+	},
+	"authors": [
+		{
+			"name": "Vicki Coupe",
+			"email": "vicki@perthwebdev.com.au"
+		}
+	],
+	"minimum-stability": "dev",
+	"prefer-stable": true
+}
