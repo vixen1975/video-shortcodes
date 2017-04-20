@@ -6,7 +6,7 @@ class VideoAdmin extends ModelAdmin {
 	
 	private static $menu_title = 'Videos';
 	
-	private static $menu_icon = 'themes/liberal/images/icons/video.png';
+	private static $menu_icon = 'video-shortcodes/images/video.png';
 	
 	
 }
